@@ -1,4 +1,5 @@
 toyslam
 
-todo add loop closure
-todo add save map
+#TODO add loop closure
+
+#TODO add save map
